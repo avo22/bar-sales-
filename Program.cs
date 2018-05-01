@@ -6,7 +6,7 @@ namespace Bar_sales
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("GOODBYE WORLD");
         }
     }
 }
